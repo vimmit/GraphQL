@@ -1,3 +1,3 @@
-#GraphQL
+## GraphQL
 
 This project is about querying the API using graphQL. It also uses mutations to set, delete and update the data.
